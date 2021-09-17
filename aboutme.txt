@@ -1,0 +1,2 @@
+This is just a simple text file that has some content and is part of the branch_1.
+Insert generic sentence here.
